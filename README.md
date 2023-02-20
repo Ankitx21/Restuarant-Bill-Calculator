@@ -1,2 +1,2 @@
-# Restuarant-Bill-Calculator
-The Python program helps restaurants by calculating bills, reducing queues, providing better assistance, and offering culinary recommendations and special offers to customers based on their preferences.
+# Restraunt_bill_calculator
+A straightforward IDLE software that allows you to order meals, makes suggestions based on what you've selected, and sends you a thank-you email.
